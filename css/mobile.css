@@ -1,0 +1,54 @@
+#navbar {
+    flex-direction: column;
+}
+
+#navbar ul li {
+    font-size: 1.1rem;
+}
+
+#logo img {
+    height: 80px;
+    width: 300px;
+}
+
+#navbar ul li a {
+    padding: 0px 5px 5px 5px;
+}
+
+.headings {
+    font-size: 2rem;
+    padding: 0px;
+}
+
+#home {
+    height: 350px;
+    padding: 3px 68px;
+}
+
+p {
+    font-size: small;
+}
+
+#b1,
+#searchbar {
+    margin: 15px 3px;
+    padding: 5px;
+}
+
+#searchbar {
+    width: 150px;
+}
+
+#Service {
+    padding-top: 20px;
+}
+
+#services {
+    flex-direction: column;
+    margin: 10px;
+}
+
+#categories {
+    flex-direction: column;
+    margin: 10px;
+}
